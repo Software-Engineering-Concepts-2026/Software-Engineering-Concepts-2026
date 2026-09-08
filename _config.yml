@@ -1,0 +1,15 @@
+theme: jekyll-theme-cayman
+title: Software Engineering Concepts 2026
+description: "เอกสารการสอน เนื้อหา แล็บ และสไลด์ — มหาวิทยาลัยพะเยา"
+show_downloads: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
