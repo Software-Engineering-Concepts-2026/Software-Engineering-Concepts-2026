@@ -6,7 +6,7 @@
 | Week | วันที่ | Lab | คะแนน | โฟลเดอร์ |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | 17 มิ.ย. 2569 | **Lab 01 — First Pragmatic Commit** | **1.75%** | [Week1/lab/](../Week1/lab/) ✅ |
-| 2 | 24 มิ.ย. 2569 | Lab 02 — Sprint Zero Setup | **3.5%** | `Week2/lab/` ⏳ |
+| 2 | 24 มิ.ย. 2569 | Lab 02 — Sprint Zero Setup | **3.5%** | [Week2/lab/](../Week2/lab/) ✅ |
 | 3 | 1 ก.ค. 2569 | Lab 03 — Requirements Docs | **3.5%** | `Week3/lab/` ⏳ |
 | 4 | 8 ก.ค. 2569 | Lab 04 — Rapid Prototyping | **3.5%** | `Week4/lab/` ⏳ |
 | 5 | 15 ก.ค. 2569 | Lab 05 — Architectural Artifacts | **3.5%** | `Week5/lab/` ⏳ |
